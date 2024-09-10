@@ -77,7 +77,7 @@ import SwiftUI
         var components = calendar.dateComponents([.year, .month, .day, .hour], from: now)
         components.hour = now.hour + 1
         components.minute = 0
-        return  now
+        return calendar.date(from: components) ?? now
     }
     
     private func getMaximumDueDate() -> Date {
