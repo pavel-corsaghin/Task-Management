@@ -1,6 +1,6 @@
 # The Take Home Assessment
 
-## Video Recoding
+## Video Recording
 
 [![Watch the video](https://img.youtube.com/vi/b4Zy7HU5IQE/maxresdefault.jpg)](https://youtu.be/b4Zy7HU5IQE)
 
