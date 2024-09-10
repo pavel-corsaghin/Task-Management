@@ -1,5 +1,11 @@
 # The Take Home Assessment
 
+## Video Recoding
+
+[![Watch the video](https://img.youtube.com/vi/b4Zy7HU5IQE/maxresdefault.jpg)](https://youtu.be/b4Zy7HU5IQE)
+
+## Screenshots
+
 Task empty                     |  Task list.               | Add Task
 :-----------------------------:|:-------------------------:|:---------------------------:
 ![](ScreenShots/home_empty.png)| ![](ScreenShots/home.png) |![](ScreenShots/add_task.png)
